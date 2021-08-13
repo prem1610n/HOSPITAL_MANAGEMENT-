@@ -10,13 +10,5 @@ The Hospital management system is decreasing work that is done manually at hospi
 ![home 3](https://user-images.githubusercontent.com/73883082/129375472-a5e767ac-c8d1-408a-85e7-bfb4ba662628.PNG)
 ![see tabel](https://user-images.githubusercontent.com/73883082/129375481-2fcc3298-9fc7-40f3-8d43-a58d94dbcdd9.PNG)
 ![pop up](https://user-images.githubusercontent.com/73883082/129375486-8b376919-569a-4ef0-a177-6e748db264ce.PNG)
-![login form id](https://user-images.githubusercontent.com/73883082/129375498-a1780829-27d7-4899-bebd-15f4a0ff7cb4.PNG)
-![sign in](https://user-images.githubusercontent.com/73883082/129375516-feaa01fb-843f-445f-935b-1265ba4c7be7.PNG)
-![hospital info 2](https://user-images.githubusercontent.com/73883082/129375524-d50f02c8-4d1a-458c-b779-3f78f206890b.PNG)
-![hospital info](https://user-images.githubusercontent.com/73883082/129375531-34c791c1-256f-4ede-9ab8-767434c563bb.PNG)
-
-![Uploading home 2.PNG…]()
-![home 1](https://user-images.githubusercontent.com/73883082/129375554-36f66358-3412-4d1e-840b-56dfb24b2dea.PNG)
-![doctor info](https://user-images.githubusercontent.com/73883082/129375557-623394e7-719a-4991-949f-65ab90e6286a.png)
 
 
