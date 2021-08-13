@@ -1,32 +1,4 @@
 # HOSPITAL_MANAGEMENT-
 The Hospital management system is decreasing work that is done manually at hospital center , in this project  MySQL  use for database and for frontend   HTML 5 and CSS are used 
 # Screen_Shots
-![tabel info](https://user-images.githubusercontent.com/73883082/129374425-67119b7a-d3b2-49c9-b424-437e7084966c.PNG)
-![add info](https://user-images.githubusercontent.com/73883082/129374430-019d53a6-3950-493b-a250-b79b7638a6f6.PNG)
-![add new tabel](https://user-images.githubusercontent.com/73883082/129374433-953e2461-df8c-419f-b4f9-37d39dd3a9a5.PNG)
-![covid 2](https://user-images.githubusercontent.com/73883082/129374437-6da0ae71-ced2-4410-8fd8-7ca26ac77941.PNG)
-![covid form 1](https://user-images.githubusercontent.com/73883082/129374440-edba4bf4-1627-432e-815d-da61d3fa9878.PNG)
-![covid form 2](https://user-images.githubusercontent.com/73883082/129374443-98e3cb6e-d41a-4260-8b3a-3c2436bbc3bf.PNG)
-![covid room booking](https://user-images.githubusercontent.com/73883082/129374447-5250bbe3-2cee-4721-a368-b92a6e08fbfd.PNG)
 
-![database of dr info](https://user-images.githubusercontent.com/73883082/129374455-558775ac-54d8-4c80-9cb7-6d486c6fcacc.PNG)
-![database of feedback](https://user-images.githubusercontent.com/73883082/129374457-aa6c9ecd-a0c0-447e-8dd2-fbea11a45032.PNG)
-
-![edit tabel](https://user-images.githubusercontent.com/73883082/129374465-b4942167-3f5a-402b-a9a1-6f68d77ce26f.PNG)
-![feedback form](https://user-images.githubusercontent.com/73883082/129374469-24e36f3e-d3b7-4d4a-894d-7660a3be19e5.PNG)
-![home 1](https://user-images.githubusercontent.com/73883082/129374471-2941d3f9-85ec-41e4-ad35-5f521e41ef9f.PNG)
-![home 2](https://user-images.githubusercontent.com/73883082/129374482-fafa9888-b57f-4f3e-bcf8-06a19f4a88ee.PNG)
-![home 3](https://user-images.githubusercontent.com/73883082/129374487-acd659ca-1fc8-466a-b998-337033d8112d.PNG)
-![home 4](https://user-images.githubusercontent.com/73883082/129374490-824c9ecc-9a11-4f06-ba79-ad03335a4565.PNG)
-![hospital info 2](https://user-images.githubusercontent.com/73883082/129374492-a86cb05c-1674-48b7-8b67-4ba6e7a9d2f4.PNG)
-![hospital info](https://user-images.githubusercontent.com/73883082/129374500-7dccc6d8-19ff-44f4-ae40-1d96eeb8bac7.PNG)
-![jumbox](https://user-images.githubusercontent.com/73883082/129374508-eafd6336-1056-4fec-9cb1-5b1f9c485f23.PNG)
-![login acc](https://user-images.githubusercontent.com/73883082/129374512-4ccbceb4-e697-4aeb-ab74-f840428d1a0c.PNG)
-![login details database](https://user-images.githubusercontent.com/73883082/129374522-15895856-9277-4738-b45a-f19083bf01f3.PNG)
-![login details](https://user-images.githubusercontent.com/73883082/129374525-a06fa7e8-b573-4f2f-a16f-afeff58b1b34.PNG)
-![login form 1](https://user-images.githubusercontent.com/73883082/129374528-677976d8-4ede-4ad5-a67a-c1e88dd1b1b2.PNG)
-![login form id](https://user-images.githubusercontent.com/73883082/129374529-086c0a6f-f177-415b-a9b3-7e70f95fa1e3.PNG)
-![pop up](https://user-images.githubusercontent.com/73883082/129374532-02ee5204-e933-41ef-9c79-5cee07a07d67.PNG)
-![see tabel](https://user-images.githubusercontent.com/73883082/129374536-ae49a4a8-2ee5-43c8-9776-a343f2ed1ed7.PNG)
-![sign in](https://user-images.githubusercontent.com/73883082/129374539-e6bce11b-4700-41ed-a713-ae8ccde84b1f.PNG)
-![sign up](https://user-images.githubusercontent.com/73883082/129374542-beacf2d4-0455-4a4b-ac95-b6257afcf86f.PNG)
