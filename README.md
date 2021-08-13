@@ -8,10 +8,10 @@ The Hospital management system is decreasing work that is done manually at hospi
 ![covid form 1](https://user-images.githubusercontent.com/73883082/129374440-edba4bf4-1627-432e-815d-da61d3fa9878.PNG)
 ![covid form 2](https://user-images.githubusercontent.com/73883082/129374443-98e3cb6e-d41a-4260-8b3a-3c2436bbc3bf.PNG)
 ![covid room booking](https://user-images.githubusercontent.com/73883082/129374447-5250bbe3-2cee-4721-a368-b92a6e08fbfd.PNG)
-![database of covid room](https://user-images.githubusercontent.com/73883082/129374452-02b2e87f-f94c-4e44-b4e6-8dac5ba123ae.PNG)
+
 ![database of dr info](https://user-images.githubusercontent.com/73883082/129374455-558775ac-54d8-4c80-9cb7-6d486c6fcacc.PNG)
 ![database of feedback](https://user-images.githubusercontent.com/73883082/129374457-aa6c9ecd-a0c0-447e-8dd2-fbea11a45032.PNG)
-![doctor info](https://user-images.githubusercontent.com/73883082/129374459-92ded94f-14d6-4ea3-b3cb-2e48998d8015.png)
+
 ![edit tabel](https://user-images.githubusercontent.com/73883082/129374465-b4942167-3f5a-402b-a9a1-6f68d77ce26f.PNG)
 ![feedback form](https://user-images.githubusercontent.com/73883082/129374469-24e36f3e-d3b7-4d4a-894d-7660a3be19e5.PNG)
 ![home 1](https://user-images.githubusercontent.com/73883082/129374471-2941d3f9-85ec-41e4-ad35-5f521e41ef9f.PNG)
