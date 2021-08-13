@@ -10,5 +10,7 @@ The Hospital management system is decreasing work that is done manually at hospi
 ![home 3](https://user-images.githubusercontent.com/73883082/129375472-a5e767ac-c8d1-408a-85e7-bfb4ba662628.PNG)
 ![see tabel](https://user-images.githubusercontent.com/73883082/129375481-2fcc3298-9fc7-40f3-8d43-a58d94dbcdd9.PNG)
 ![pop up](https://user-images.githubusercontent.com/73883082/129375486-8b376919-569a-4ef0-a177-6e748db264ce.PNG)
+![hospital info 2](https://user-images.githubusercontent.com/73883082/129375962-76e0335c-fd8e-4632-9fab-987c2424ea48.PNG)
+![home 1](https://user-images.githubusercontent.com/73883082/129375987-a35db955-6653-4d3f-837f-e0d45537bbaf.PNG)
 
 
